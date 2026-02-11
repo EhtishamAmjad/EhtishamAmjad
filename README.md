@@ -1,8 +1,7 @@
 # 🚀 Hi there 👋 I'm **Ehtisham Amjad**
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=240&text=Future%20Blockchain%20Developer&desc=Ehtisham%20Amjad&fontSize=36&color=0:134E5E,100:71B280&fontColor=ffffff"/>
-</div>
+[![GitHub Banner](https://user-images.githubusercontent.com/74038190/212897282-5c0e3f3c-8b6c-4c8e-9f3e-3d5a0d327669.gif)](https://github.com/EhtishamAmjad)
+
 
 
 
