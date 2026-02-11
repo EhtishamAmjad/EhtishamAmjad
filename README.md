@@ -1,8 +1,10 @@
 # 🚀 Hi there 👋 I'm **Ehtisham Amjad**
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Ehtisham%20Amjad&fontSize=45&color=0:1a2a6c,50:b21f1f,100:fdbb2d&stroke=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=260&text=Ehtisham%20Amjad&desc=Future%20Blockchain%20Developer%20%7C%20Trader&descAlignY=65&fontSize=42&color=0:000428,100:004e92&fontColor=ffffff"/>
 </div>
+
+
 
 
 ## 👨‍💻 About Me
