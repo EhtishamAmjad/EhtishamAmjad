@@ -1,8 +1,9 @@
 # 🚀 Hi there 👋 I'm **Ehtisham Amjad**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=260&text=Ehtisham%20Amjad&desc=Developer%20%7C%20Trader%20%7C%20Entrepreneur&fontSize=40&color=0:0f0c29,50:302b63,100:24243e&fontColor=00f7ff"/>
 </div>
+
 
 
 
