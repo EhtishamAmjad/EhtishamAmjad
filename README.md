@@ -1,8 +1,9 @@
 # 🚀 Hi there 👋 I'm **Ehtisham Amjad**
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Future%20Blockchain%20Developer&fontSize=32&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Ehtisham%20Amjad&fontSize=45&color=0:1a2a6c,50:b21f1f,100:fdbb2d&stroke=ffffff"/>
 </div>
+
 
 ## 👨‍💻 About Me
 🎓 Computer Science Student from Pakistan  
