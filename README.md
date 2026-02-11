@@ -13,8 +13,8 @@
 
 
 ## 👨‍💻 About Me
-I am a 🎓 Computer Science Student from Pakistan  
-My passion for 💻 Future **Blockchain Developer**  
+I am  🎓 Computer Science Student from Pakistan  
+Focusing on career as 💻 Future **Blockchain Developer**  
  I'm an 📊 Active Trader (Crypto • Gold • Forex)  
 🚀 Passionate about combining **Technology + Finance**  
 Have experience 📈 Sales & Teaching experience in Consultancy and Tech  
