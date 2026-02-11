@@ -1,6 +1,8 @@
 # 🚀 Hi there 👋 I'm **Ehtisham Amjad**
 
-![EhtishamAmjad's GitHub Banner](https://raw.githubusercontent.com/EhtishamAmjad/EhtishamAmjad/main/banner.png)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=Ehtisham%20Amjad&fontSize=40&color=gradient&fontColor=ffffff"/>
+</div>
 
 
 
