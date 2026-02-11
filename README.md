@@ -12,7 +12,8 @@
 
 
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coder GIF" width="380" height="280">
-## 👨‍💻 About Me
+
+ 👨‍💻 About Me
 I am  🎓 Computer Science Student from Pakistan  
 Focusing on career as 💻 Future **Blockchain Developer**  
  I'm an 📊 Active Trader (Crypto • Gold • Forex)  
