@@ -1,6 +1,9 @@
 # 🚀 Hi there 👋 I'm **Ehtisham Amjad**
 
-[![GitHub Banner](https://user-images.githubusercontent.com/74038190/212897282-5c0e3f3c-8b6c-4c8e-9f3e-3d5a0d327669.gif)](https://github.com/EhtishamAmjad)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png" />
+</div>
+
 
 
 
