@@ -1,7 +1,7 @@
 # 🚀 Hi there 👋 I'm **Ehtisham Amjad**
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=Ehtisham%20Amjad&fontSize=40&color=gradient&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Future%20Blockchain%20Developer%20%7C%20Trader&fontSize=32&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff"/>
 </div>
 
 
