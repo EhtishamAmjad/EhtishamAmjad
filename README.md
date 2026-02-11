@@ -13,12 +13,12 @@
 
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coder GIF" width="380" height="280">
 
- 👨‍💻 About Me
-I am  🎓 Computer Science Student from Pakistan  
-Focusing on career as 💻 Future **Blockchain Developer**  
- I'm an 📊 Active Trader (Crypto • Gold • Forex)  
+ ### 👨‍💻 About Me
+🎓 Computer Science Student from Pakistan  
+💻 Future **Blockchain Developer**  
+📊 Active Trader (Crypto • Gold • Forex)  
 🚀 Passionate about combining **Technology + Finance**  
-Have experience 📈 Sales & Teaching experience in Consultancy and Tech  
+ 📈 Sales & Teaching experience in Consultancy and Tech  
 
 > ❤️ Love combining trading with technology  
 > 💡 Always exploring new business ideas  
