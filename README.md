@@ -1,4 +1,4 @@
-# 🚀 Hi there 👋 I'm **Ehtisham Amjad**
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋+I'm+Ehtisham+Amjad+" /> </h1>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&height=260&text=Ehtisham%20Amjad&desc=Developer%20%7C%20Trader%20%7C%20Entrepreneur&fontSize=40&color=0:0f0c29,50:302b63,100:24243e&fontColor=00f7ff"/>
