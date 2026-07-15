@@ -40,8 +40,8 @@
 ✔ HTML  
 ✔ CSS  
 ✔ JavaScript  
-✔ React (Learning Phase)  
-✔ Backend Development (Learning)  
+✔ React   
+✔ Backend Development  
 ✔ MS Office Suite  
 
 ### 💼 Professional Skills
